@@ -107,4 +107,4 @@ Star schemas, queries, and reporting for healthcare operations data.
 ---
 
 ## 📊 GitHub Stats
-![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=graceoko)
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=graceoko&show_icons=true)
