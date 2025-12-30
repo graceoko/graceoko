@@ -14,9 +14,7 @@ This GitHub serves as a landing page for my **analytics projects**, **machine le
   <!-- Replace with your real links -->
   <a href="#"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="42px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/2yaf2wb.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="42px" alt="Email" title="Email" src="https://i.imgur.com/0X0xQ2G.png"/></a>
+    <a href="#"><img width="42px" alt="Email" title="Email" src="https://i.imgur.com/0X0xQ2G.png"/></a>
 </p>
 
 ---
