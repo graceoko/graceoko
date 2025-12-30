@@ -6,15 +6,9 @@
 
 **`Health Informatics (MS) • Wearable & Digital Health Analytics • Data & ML • Health Data Privacy`**
 
-My career path has been intentionally interdisciplinary. While my experiences may appear nonlinear, they have shaped me into an adaptable problem-solver, strong communicator, and systems-level thinker with a deep interest in how technology can be used to improve health outcomes.
+I’m a Health Informatics master’s student at the University of Pittsburgh with a background spanning **group fitness instruction**, **neuroscience research and education**, and **health data analytics**. My work sits at the intersection of **wearable technology**, **machine learning**, **health behavior**, and **data governance**, with a strong focus on translating complex data into practical, human-centered insights.
 
-I began my professional journey as a **group fitness instructor**, where I used interactive fitness technologies such as **Spivi** to help participants set goals, track performance, and understand their progress in real time. What started as a physical challenge quickly became my first exposure to **IoT as an educational and motivational tool**, allowing me to mobilize diverse groups of people toward shared health goals.
-
-I later built on this foundation through my work at a **neuroscience-focused nonprofit**, where I supported neuroscience education programs that leveraged **augmented reality and digital simulations** to teach audiences about brain health. In parallel, I reviewed neuroscience research and engaged directly with researchers, gaining exposure to methodologies that frequently incorporated **generative AI and brain–machine interfaces**.
-
-Although these experiences differ in form, they share a common core: **using technology to create favorable health outcomes**. Together, they inform my work in health informatics and motivate my interest in **consulting**, where I aim to translate complex technologies, data, and research into accessible, human-centered solutions.
-
-This GitHub serves as a central landing page for my **health analytics, machine learning, and informatics projects**, with a focus on clarity, reproducibility, and real-world relevance.
+This GitHub serves as a landing page for my **analytics projects**, **machine learning work using wearable data**, and **health technology analyses**, with an emphasis on clarity, reproducibility, and real-world application.
 
 <p align="center">
   <!-- Replace with your real links -->
@@ -29,77 +23,70 @@ This GitHub serves as a central landing page for my **health analytics, machine 
 
 ## 🧰 Languages, Tools & Technologies
 
-These are tools I have used across coursework, projects, and applied health analytics work:
+These are tools I’ve used across coursework, projects, and applied work in health analytics and informatics:
 
 ### Programming & Query Languages
 <p align="center">
-  <img alt="Python" width="50px" style="padding-right:10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="SQL" width="50px" style="padding-right:10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Java" width="50px" style="padding-right:10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p>
 
 ### Analytics, BI & Statistical Tools
 <p align="center">
-  <img alt="Tableau" width="50px" style="padding-right:10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
-  <img alt="Power BI" width="50px" style="padding-right:10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
-  <img alt="Excel" width="50px" style="padding-right:10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" />
-  <img alt="SPSS" width="50px" style="padding-right:10px;"
-       src="https://upload.wikimedia.org/wikipedia/commons/5/5c/IBM_SPSS_Statistics_Logo.svg" />
-  <img alt="Microsoft Access" width="50px" style="padding-right:10px;"
-       src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Access_2013-2019_logo.svg" />
+  <img alt="Tableau" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
+  <img alt="Power BI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+  <img alt="Excel" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" />
+  <img alt="SPSS" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/IBM_SPSS_Statistics_Logo.svg" />
+  <img alt="Access" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Access_2013-2019_logo.svg" />
 </p>
 
 ### Development & Workflow
 <p align="center">
-  <img alt="Git" width="50px" style="padding-right:10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
 ---
 
-## 👩🏾‍💻 Current Focus Areas
+## 👩🏾‍💻 What I’m Working On
 
-### 📊 Wearable Data Analytics & Machine Learning
-I develop analytics and ML pipelines using wearable-style datasets (e.g., Fitbit activity and sleep data) to:
+### 📊 Wearable Data & Machine Learning
+I build end-to-end ML and analytics pipelines using wearable-style datasets (e.g., Fitbit-like activity and sleep data) to:
 - Predict **sleep duration** and **sleep quality**
-- Identify behavioral drivers through correlations and feature importance
-- Translate quantitative results into meaningful health insights
+- Explore behavioral drivers using correlations and feature importance
+- Translate model results into actionable health insights
 
-These projects reflect my interest in **digital biomarkers**, **behavioral health**, and **data-informed decision-making**.
+**Skills demonstrated:** data cleaning, feature engineering, regression & classification models, model evaluation, interpretation.
+
+➡️ *Repos linked below*
 
 ---
 
-### 🔐 Health Data Privacy & Cybersecurity (Consumer Technologies)
-I analyze privacy, security, and governance challenges in **consumer health and wearable ecosystems**, with attention to:
-- The boundary between consumer and clinical health data  
+### 🔐 Health Data Privacy & Cybersecurity (Consumer Tech)
+I analyze privacy, security, and governance challenges in **consumer health and wearable ecosystems**, focusing on:
+- Risks at the boundary of clinical vs. consumer health data  
 - Ethical and regulatory gaps in wearable data use  
-- Practical mitigation strategies grounded in health informatics principles  
+- Practical mitigation strategies grounded in informatics principles  
+
+➡️ *Written analyses and policy-focused repositories*
 
 ---
 
-### 🧠 Neuroscience Education & Research Exposure
-Through my work at a neuroscience nonprofit, I supported:
-- Education initiatives using AR and digital simulations  
-- Review of neuroscience research methodologies  
-- Direct engagement with researchers on emerging technologies  
-
-This experience informs my approach to responsible, evidence-based health technology.
+### 🧠 Neuroscience Research & Education
+I previously worked at a **neuroscience-focused nonprofit**, supporting research funding, education initiatives, and scientific advisory processes. This experience informs how I approach:
+- Evidence-based health technology
+- Clear communication of complex scientific ideas
+- Responsible use of data in sensitive domains
 
 ---
 
-## 🏋🏾‍♀️ Perspective from Group Fitness & Health Behavior
-My background as a group fitness instructor strongly shapes how I approach digital health and analytics. Teaching fitness classes required me to:
-- Motivate behavior change  
-- Communicate goals and progress clearly  
-- Use technology to engage diverse populations  
+## 🏋🏾‍♀️ Background in Group Fitness & Health Behavior
+Before and alongside my technical work, I was a **group fitness instructor**, which strongly shapes my approach to digital health. It gave me hands-on experience with:
+- Behavior change and motivation
+- Wearable and fitness technologies in real-world settings
+- Communicating data and goals to diverse populations
 
-This perspective helps me evaluate health technologies not only for technical performance, but also for **usability, engagement, and real-world impact**.
+This perspective helps me design and evaluate health technologies that are **usable, engaging, and grounded in human behavior**.
 
 ---
 
@@ -107,9 +94,28 @@ This perspective helps me evaluate health technologies not only for technical pe
 *(Pinned repositories recommended)*
 
 - **Predicting Sleep Duration & Quality Using Wearable Data**  
-  Machine learning analysis using activity and sleep features.  
+  Machine learning and analytics project using activity and sleep features.  
   ➜ Repo | Paper | Slides
 
 - **Cybersecurity & Privacy Analysis of Consumer Wearables**  
-  Informatics-focused assessment of risks and governance challenges.  
+  Health informatics–driven assessment of risks and governance challenges.  
   ➜ Repo | PDF
+
+- **Healthcare Data Modeling & SQL Analytics**  
+  Star schemas, queries, and reporting for healthcare operations data.  
+  ➜ Repo
+
+---
+
+## 🎯 Interests & Focus Areas
+- Wearable technology & digital biomarkers  
+- Health analytics and machine learning  
+- Data visualization and decision support  
+- Health data privacy, security, and governance  
+- Consulting-style problem solving in healthcare and tech  
+
+---
+
+## 📊 GitHub Stats
+<!-- Replace USERNAME with your GitHub username -->
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=gruvbox)
