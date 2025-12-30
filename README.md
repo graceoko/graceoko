@@ -12,21 +12,25 @@ This GitHub serves as a landing page for my analytics projects, machine learning
 ## 🧰 Languages, Tools & Technologies
 Tools I’ve used across coursework, projects, and applied work in health analytics and informatics.
 
-### Programming & Query Languages
-- Python
-- SQL
-- Java
+### 🧠 Programming & Query Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Analytics, BI & Statistical Tools
-- Tableau
-- Power BI
-- Excel
-- SPSS
-- Microsoft Access
+---
 
-### Development & Workflow
-- Git
-- GitHub
+### 📊 Analytics, BI & Statistical Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+---
+
+### 🛠️ Development & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
