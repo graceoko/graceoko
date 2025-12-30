@@ -1,4 +1,4 @@
-# Grace Okoro 👋  
+# Grace U. Okoro 👋  
 **Health Informatics (MS)** • **Wearable & Digital Health Analytics** • **Data & ML** • **Health Data Privacy**
 
 I’m a Health Informatics master’s student at the University of Pittsburgh with a background spanning group fitness instruction, neuroscience research and education, and health data analytics. My work sits at the intersection of wearable technology, machine learning, health behavior, and data governance, with a strong focus on translating complex data into practical, human-centered insights.
