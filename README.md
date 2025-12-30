@@ -5,7 +5,7 @@ I’m a Health Informatics master’s student at the University of Pittsburgh wi
 
 This GitHub serves as a landing page for my analytics projects, machine learning work using wearable data, and health technology analyses, with an emphasis on clarity, reproducibility, and real-world application.
 
-[LinkedIn](LINK_HERE) | [Portfolio](LINK_HERE) | [Email](mailto:EMAIL_HERE)
+[LinkedIn](LINK_HERE) | [Portfolio](LINK_HERE) | [Email](mailto:gro29@pitt.edu)
 
 ---
 
