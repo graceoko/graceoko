@@ -5,12 +5,12 @@ I’m a Health Informatics master’s student at the University of Pittsburgh wi
 
 This GitHub serves as a landing page for my analytics projects, machine learning work using wearable data, and health technology analyses, with an emphasis on clarity, reproducibility, and real-world application.
 
-[LinkedIn](https://www.linkedin.com/in/grace-u-okoro-a17b01183) | [Portfolio](LINK_HERE) | [Email](mailto:gro29@pitt.edu)
+[LinkedIn](https://www.linkedin.com/in/grace-u-okoro-a17b01183) | [Email](mailto:gro29@pitt.edu)
 
 ---
 
 ## 🧰 Languages, Tools & Technologies
-Tools I’ve used across coursework, projects, and applied work in health analytics and informatics.
+Tools used across coursework, projects, and applied work in health analytics and informatics.
 
 ### 🧠 Programming & Query Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +41,9 @@ I build end-to-end analytics and machine learning pipelines using wearable-style
 
 - Predict sleep duration and sleep quality  
 - Explore behavioral drivers using correlations and feature importance  
-- Translate model outputs into actionable health insights  
+- Translate model outputs into actionable health insights
+
+This work includes supervised learning approaches (regression and tree-based classification models), evaluated using cross-validation and standard performance metrics.
 
 **Skills demonstrated:** data cleaning, feature engineering, regression and classification models, model evaluation, and interpretation.
 
@@ -81,19 +83,25 @@ This perspective helps me design and evaluate health technologies that are usabl
 ---
 
 ## 📌 Featured Projects
-*(Pinned repositories recommended)*
+*(Selected work — see pinned repositories for details)*
 
-### **Predicting Sleep Duration & Quality Using Wearable Data**
-Machine learning and analytics project using activity and sleep features.  
-➜ Repo | Paper | Slides
+### **Predicting Sleep Duration & Quality Using Fitbit Wearable Data**
+End-to-end machine learning project using wearable activity and sleep data to model sleep outcomes and behavioral drivers, including preprocessing, feature engineering, supervised learning, and interpretability.  
+➜ GitHub Repository
 
 ### **Cybersecurity & Privacy Analysis of Consumer Wearables**
-Health informatics–driven assessment of risks and governance challenges.  
-➜ Repo | PDF
+Health informatics–driven analysis of privacy, security, and governance risks in consumer wearable ecosystems, with a focus on regulatory gaps and mitigation strategies.  
+➜ GitHub Repository
 
-### **Healthcare Data Modeling & SQL Analytics**
-Star schemas, queries, and reporting for healthcare operations data.  
-➜ Repo
+### **Stroke Risk Prediction Using Machine Learning (R)**
+Applied machine learning project using clinical and demographic data to model stroke risk, emphasizing exploratory analysis and supervised modeling in R.  
+➜ GitHub Repository
+
+### **Stroke Supervision & Tracking Dashboard**
+Collaborative health informatics project designing a centralized stroke supervision and tracking system using SQL Server, Microsoft Access, and Power BI. Focused on database design, synthetic data preparation, SQL modeling, and dashboard reporting for clinical workflow and compliance monitoring.  
+➜ GitHub Repository
+
+
 
 ---
 
