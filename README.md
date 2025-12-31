@@ -47,7 +47,6 @@ This work includes supervised learning approaches (regression and tree-based cla
 
 **Skills demonstrated:** data cleaning, feature engineering, regression and classification models, model evaluation, and interpretation.
 
-➡️ *See pinned repositories below*
 
 ---
 
@@ -58,7 +57,6 @@ I analyze privacy, security, and governance challenges in consumer health and we
 - Ethical and regulatory gaps in wearable data use  
 - Practical mitigation strategies grounded in informatics principles  
 
-➡️ *Written analyses and policy-focused repositories*
 
 ---
 
@@ -83,7 +81,7 @@ This perspective helps me design and evaluate health technologies that are usabl
 ---
 
 ## 📌 Featured Projects
-*(Selected work — see pinned repositories for details)*
+* see pinned repositories for details*
 
 ### **Predicting Sleep Duration & Quality Using Fitbit Wearable Data**
 End-to-end machine learning project using wearable activity and sleep data to model sleep outcomes and behavioral drivers, including preprocessing, feature engineering, supervised learning, and interpretability.  
