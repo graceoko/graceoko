@@ -81,7 +81,7 @@ This perspective helps me design and evaluate health technologies that are usabl
 ---
 
 ## 📌 Featured Projects
-* see pinned repositories for details*
+*see pinned repositories for details*
 
 ### **Predicting Sleep Duration & Quality Using Fitbit Wearable Data**
 End-to-end machine learning project using wearable activity and sleep data to model sleep outcomes and behavioral drivers, including preprocessing, feature engineering, supervised learning, and interpretability.  
