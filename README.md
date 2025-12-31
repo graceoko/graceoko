@@ -104,7 +104,4 @@ Star schemas, queries, and reporting for healthcare operations data.
 - Health data privacy, security, and governance  
 - Consulting-style problem solving in healthcare and technology  
 
----
 
-## 📊 GitHub Stats
-![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=graceoko&show_icons=true)
