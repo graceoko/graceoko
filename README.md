@@ -87,15 +87,15 @@ This perspective helps me design and evaluate health technologies that are usabl
 
 ### **Predicting Sleep Duration & Quality Using Fitbit Wearable Data**
 End-to-end machine learning project using wearable activity and sleep data to model sleep outcomes and behavioral drivers, including preprocessing, feature engineering, supervised learning, and interpretability.  
-[ wearable_sleep_modeling_fitbit](https://github.com/graceoko/ wearable_sleep_modeling_fitbit)
+[ wearable_sleep_modeling_fitbit](https://github.com/graceoko/wearable_sleep_modeling_fitbit)
 
 ### **Cybersecurity & Privacy Analysis of Consumer Wearables**
 Health informatics–driven analysis of privacy, security, and governance risks in consumer wearable ecosystems, with a focus on regulatory gaps and mitigation strategies.  
-[ wearable_health_privacy_security_analysis](https://github.com/graceoko/ wearable_health_privacy_security_analysis)
+[ wearable_health_privacy_security_analysis](https://github.com/graceoko/wearable_health_privacy_security_analysis)
 
 ### **Stroke Risk Prediction Using Machine Learning (R)**
 Applied machine learning project using clinical and demographic data to model stroke risk, emphasizing exploratory analysis and supervised modeling in R.  
-[stroke_risk_analysis_female_patients](https://github.com/graceoko/ stroke_risk_analysis_female_patients)
+[stroke_risk_analysis_female_patients](https://github.com/graceoko/stroke_risk_analysis_female_patients)
 
 ### **Stroke Supervision & Tracking Dashboard**
 Collaborative health informatics project designing a centralized stroke supervision and tracking system using SQL Server, Microsoft Access, and Power BI. Focused on database design, synthetic data preparation, SQL modeling, and dashboard reporting for clinical workflow and compliance monitoring.  
